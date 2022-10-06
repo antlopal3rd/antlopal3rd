@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hello there! I am Antonio <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-lopez-alanis-fernandez/)](https://www.linkedin.com/in/antonio-lopez-alanis-fernandez/)
+[![Gmail Badge](https://img.shields.io/badge/-antlopal3rd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antlopal3rd@gmail.com)](mailto:antlopal3rd@gmail.com)
+
+I'm a junior data analyst very passionate about technology.
 
 <!--
 **antlopal3rd/antlopal3rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
